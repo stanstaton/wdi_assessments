@@ -8,16 +8,16 @@ project week! Furthermore, you can consider the weekly assessments effectively a
 ### Assessment Schedule
 
 | Week | Week Type | Assessment |
-| --- | ------- | ------------------ |
-| 1 | Lesson | [Link](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w01-assessment.md) |
-| 2 | Lesson | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-mechanical.md) <br> [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-conceptual.md) |
+| --- | ---------------- | ------------------ |
+| 1 | Lesson (Front-End) | [Link](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w01-assessment.md) |
+| 2 | Lesson (Front-End) | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-mechanical.md) <br> [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-conceptual.md) |
 | 3 | Project | [Project 1 Assessment](https://github.com/WDI-SEA/wdi_assessments/blob/master/project_assessments/project-1-assessment/project-1-assessment.md) |
-| 4 | Lesson | TBD |
-| 5 | Lesson | TBD |
+| 4 | Lesson (Full-Stack) | TBD |
+| 5 | Lesson (Full-Stack) | TBD |
 | 6 | Project | Project 2 Assessment |
-| 7 | Lesson | TBD |
-| 8 | Lesson | TBD |
+| 7 | Lesson (React) | TBD |
+| 8 | Lesson (React) | TBD |
 | 9 | Project | Project 3 Assessment |
-| 10 | Lesson | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-mechanical.md) <br> [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-conceptual.md) |
-| 11 | Lesson | [Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w11-assessment.md) | 
+| 10 | Lesson (Python) | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-mechanical.md) <br> [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-conceptual.md) |
+| 11 | Lesson (CS) | [Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w11-assessment.md) | 
 | 12 | Project | No Assessment! |
