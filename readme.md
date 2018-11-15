@@ -18,6 +18,6 @@ project week! Furthermore, you can consider the weekly assessments effectively a
 | 7 | Lesson | TBD |
 | 8 | Lesson | TBD |
 | 9 | Project | Project 3 Assessment |
-| 10 | Lesson | TBD |
+| 10 | Lesson | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-mechanical.md) [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-conceptual.md) |
 | 11 | Lesson | [Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w11-assessment.md) | 
 | 12 | Project | No Assessment! |
