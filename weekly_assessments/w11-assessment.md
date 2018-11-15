@@ -1,9 +1,9 @@
-# Week 11 Conceptual - NAME: ___________  `__/11`
+# Week 11 Conceptual - NAME: ___________  `__/21`
 
 
 ## MVC
 
-##### Q1) What does MVC stand for? (Choose one)
+##### Q1) What does MVC stand for? (Choose one - 1 point)
 
 ```
 a) modals, vests, coffee				b) model, viewport, change
@@ -11,111 +11,62 @@ c) modal, views, controller				d) model, view, controller
 e) movies, video games, cheetos				f) master, version control
 ```
 
-##### Q2) Other than being great to pull out at parties, the Bubble Sort algorithm is: (Circle all that apply)
+##### Q2) Other than being great to pull out at parties, the Bubble Sort algorithm is: (Circle all that apply - 6 points)
 
 ```
 a) One of the fastest sorting algorithms on unrestricted input
-b) An in-place sort 
+b) An in-place sort (or a version exists that is)
 c) Has a best case time complexity of Ω(N)
 d) A distribution sort
 e) A stable sort
-f) Has a worst case time complexity of O(N<sup>2</sup>)
+f) Has a worst case time complexity of O(N^2)
 ```
 
-##### Q3) An in-place sort and a sort with a space complexity of O(1) are the same thing.
+##### Q3) Other than being super fun, the Quick Sort algorithm is: (Circle all that apply - 6 points)
 
 ```
-a) True
-b) False
+a) One of the fastest sorting algorithms on unrestricted input
+b) An in-place sort (or a version exists that is)
+c) Has a best case time complexity of Ω(N)
+d) A distribution sort
+e) A stable sort
+f) Has a worst case time complexity of O(N^2)
 ```
 
-## Routes
+##### Q4) An "in-place sort" and a sort with a "space complexity of O(1)" are both ways of expressing: (1 point)
 
-### An app has `Student` and `Quiz` Models (`Student |---< Quiz`):
-
-##### Q3) Which route would return a form used to create a new Quiz for a Student?
-```ruby
-a) get '/student/:student_id/quizzes/new', to: 'quizzes#new'
-b) post '/student/:student_id/quizzes', to: 'quizzes#create'
-c) get '/students/:student_id/quizzes/new', to: 'quizzes#new'
-d) new '/student/:student_id/quizzes/new', to: 'quizzes#new'
 ```
-##### Q4) Which route will create the Quiz when the form is submitted?
-```ruby
-a) post '/students/:student_id/quizzes', to: 'quiz#create'
-b) post '/students/create/quizzes', to: 'users#create#tweets'
-c) post '/students/:student_id/quizzes', to: 'quizzes#create'
-d) create '/student/:student_id/quiz', to: 'student#quiz'
-```
-### Assuming the following route definitions:
-
-```ruby
-get 'users', to: 'users#index'
-post 'users', to: 'users#create'
-get 'users/:id/edit', to: 'users#edit', as: 'edit_user'
-get 'users/:id', to: 'users#show', as: 'user'
-get 'users/new', to: 'users#new'
-patch 'users/:id', to: 'users#update'
-delete 'users/:id', to: 'users#destroy'
-```
-##### Q5) Why will you get an error if you browse to `localhost:3000/users/new`?
-```
-a) The show route is above the new route, so it will
-   look for a user with an id of "new"
-b) The route definition for the new route is not defined correctly
-c) There won't be a new_user_path helper available
-d) The edit route is above the new route, so it will look for an edit form
+a) The sort does not need extra memory based on the size of the input
+b) The sort uses no memory at all
+c) The sort uses a single bit of memory
+d) The sort does not move any elements because they are already in order
+e) This sentence means nothing, we just say it to impress the boss
 ```
 
-##### Q6) How many routes would be defined by the following line of code within _routes.rb_?<br>`resources :accounts`
+##### Q5) Draw a line to match the item on the left with its definition on the right: (3 points)
 
-## Models & Active Record Associations
-
-### Assuming the following two Models:
-
-```ruby
-class Post < ApplicationRecord
-  has_many :comments
-end
+```
+Big O					Best case
+Big Ω (omega)				Average case
+Big Θ (theta)				Worst Case
 ```
 
-```ruby
-class Comment < ApplicationRecord
-  belongs_to :post
-end
+##### Q6) Which of the following are one of the 4 priciples of object-oriented programming? (Circle exactly 4: 4 points)
+
 ```
-
-##### Q7) What will be the names of the two tables in the database? (casing matters)<br><br> 
-
-##### Q8) Which table(s) will have to include a column for a foreign key?<br><br>
-
-
-### Assuming this ERD:
-
-<img src="https://i.imgur.com/MD5IeOJ.png" alt="ERD" width="400">
-
-##### Q9) Is the below Patient Model coded properly? (Yes or No)
-
-```ruby
-class Patient < ApplicationRecord
-	has_many :appointments
-	has_many :physicians, through: :appointments
-end
-```
-
-##### Q10) Is the below Physician Model coded properly? (Yes or No)
-
-```ruby
-class Physician < ApplicationRecord
-	has_many :appointments
-	has_many :patients, through: :appointments
-end
-```
-##### Q11) Is the below Appointment Model coded properly? (Yes or No)
-
-```ruby
-class Appointment < ApplicationRecord
-	belongs_to :physician
-	belongs_to :patient
-end  
+a) Abstraction		
+b) Association
+c) Automation
+d) Capitulation	
+e) Deprecation
+f) Encryption
+g) Encapsulation
+h) Polyhedrons
+i) Polymorphism
+j) Polymerization
+k) Inheritance
+l) Instantiation
+m) Recursion
+n) Optimization
+o) Continuous Integration
 ```
