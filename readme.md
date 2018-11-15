@@ -10,7 +10,7 @@ project week! Furthermore, you can consider the weekly assessments effectively a
 | Week | Week Type | Assessment |
 | --- | ------- | ------------------ |
 | 1 | Lesson | [Link](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w01-assessment.md) |
-| 2 | Lesson | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-mechanical.md) [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-conceptual.md) |
+| 2 | Lesson | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-mechanical.md) <br> [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-conceptual.md) |
 | 3 | Project | [Project 1 Assessment](https://github.com/WDI-SEA/wdi_assessments/blob/master/project_assessments/project-1-assessment/project-1-assessment.md) |
 | 4 | Lesson | TBD |
 | 5 | Lesson | TBD |
@@ -18,6 +18,6 @@ project week! Furthermore, you can consider the weekly assessments effectively a
 | 7 | Lesson | TBD |
 | 8 | Lesson | TBD |
 | 9 | Project | Project 3 Assessment |
-| 10 | Lesson | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-mechanical.md) [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-conceptual.md) |
+| 10 | Lesson | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-mechanical.md) <br> [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w10-conceptual.md) |
 | 11 | Lesson | [Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w11-assessment.md) | 
 | 12 | Project | No Assessment! |
