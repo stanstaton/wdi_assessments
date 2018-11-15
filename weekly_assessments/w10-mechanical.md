@@ -1,4 +1,4 @@
-# Week 4 Mechanical - NAME: ___________ `__/6` 
+# Week 10 Mechanical - NAME: ___________ `__/6` 
 
 ### All questions pertain to the Python language
 

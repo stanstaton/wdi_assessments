@@ -1,15 +1,33 @@
-#Week 5 Conceptual - NAME: ___________  `__/11`
+# Week 11 Conceptual - NAME: ___________  `__/11`
 
 
 ## MVC
 
-##### Q1) What does MVC stand for?
-```ruby
+##### Q1) What does MVC stand for? (Choose one)
+
+```
 a) modals, vests, coffee				b) model, viewport, change
 c) modal, views, controller				d) model, view, controller
+e) movies, video games, cheetos				f) master, version control
 ```
 
-##### Q2) Which concern in MVC is implemented by Active Record?  _______________________
+##### Q2) Other than being great to pull out at parties, the Bubble Sort algorithm is: (Circle all that apply)
+
+```
+a) One of the fastest sorting algorithms on unrestricted input
+b) An in-place sort 
+c) Has a best case time complexity of Ω(N)
+d) A distribution sort
+e) A stable sort
+f) Has a worst case time complexity of O(N<sup>2</sup>)
+```
+
+##### Q3) An in-place sort and a sort with a space complexity of O(1) are the same thing.
+
+```
+a) True
+b) False
+```
 
 ## Routes
 
@@ -60,11 +78,13 @@ class Post < ApplicationRecord
   has_many :comments
 end
 ```
+
 ```ruby
 class Comment < ApplicationRecord
   belongs_to :post
 end
 ```
+
 ##### Q7) What will be the names of the two tables in the database? (casing matters)<br><br> 
 
 ##### Q8) Which table(s) will have to include a column for a foreign key?<br><br>
@@ -75,6 +95,7 @@ end
 <img src="https://i.imgur.com/MD5IeOJ.png" alt="ERD" width="400">
 
 ##### Q9) Is the below Patient Model coded properly? (Yes or No)
+
 ```ruby
 class Patient < ApplicationRecord
 	has_many :appointments
@@ -83,6 +104,7 @@ end
 ```
 
 ##### Q10) Is the below Physician Model coded properly? (Yes or No)
+
 ```ruby
 class Physician < ApplicationRecord
 	has_many :appointments
@@ -90,6 +112,7 @@ class Physician < ApplicationRecord
 end
 ```
 ##### Q11) Is the below Appointment Model coded properly? (Yes or No)
+
 ```ruby
 class Appointment < ApplicationRecord
 	belongs_to :physician
