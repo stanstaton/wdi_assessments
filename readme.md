@@ -11,7 +11,7 @@ project week! Furthermore, you can consider the weekly assessments effectively a
 | --- | ---------------- | ------------------ |
 | 1 | Lesson (Front-End) | [Link](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w01-assessment.md) |
 | 2 | Lesson (Front-End) | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-mechanical.md) <br> [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-conceptual.md) |
-| 3 | Project | [Project 1 Assessment](https://github.com/WDI-SEA/wdi_assessments/blob/master/project_assessments/project-1-assessment/project-1-assessment.md) |
+| 3 | Project | [Project 1 Assessment](https://github.com/WDI-SEA/wdi_assessments/blob/master/project_assessments/project-1-assessment.md) |
 | 4 | Lesson (Full-Stack) | TBD |
 | 5 | Lesson (Full-Stack) | TBD |
 | 6 | Project | Project 2 Assessment |
