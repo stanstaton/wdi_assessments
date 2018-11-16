@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/ser5chI.png">
 
-# Unit 3 - Project Assessment
+# Project 3 Assessment
 
 ## Introduction (By Instructor)
 
