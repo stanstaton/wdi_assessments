@@ -46,7 +46,7 @@ The good news is that it's "open book" - you may reference anything on your comp
 
 However, don't spend too much time researching unless you're stuck - **do not over-think this application!!!**
 
-It is estimated that this project assessment will take 60 to 90 minutes to complete. However, you have until 5 pm should you need the extra time.
+It is estimated that this project assessment will take 60 to 90 minutes to complete. However, you have 2 hours should you need the extra time.
 
 ## Instructions & Time Guidelines (You've Got This!)
 
