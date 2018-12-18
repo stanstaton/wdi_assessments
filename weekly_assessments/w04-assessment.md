@@ -39,38 +39,38 @@ app.listen(3000);
 
 2. What is an ORM? (1 point)
 
-a) Object-Reducer Mapping
-b) Obstructed Randomized Memberships
-c) Objective-Relational Manifest
-d) Object-Relational Mapping
-e) None of the Above - Robert Orm is the inventor of SQL
+* a) Object-Reducer Mapping
+* b) Obstructed Randomized Memberships
+* c) Objective-Relational Manifest
+* d) Object-Relational Mapping
+* e) None of the Above - Robert Orm is the inventor of SQL
 
 3. What does `module.exports` do? (1 point)
 
-a) Enables my `node_modules` folder in the root directory
-b) Enables me to include the file in another file via the `require` keyword
-c) Enables Node to read my `index.js` files without explicitly requiring them
-d) Enables the file in question to be used as an ORM
-e) Doesn't actually do anything in the code; it's just commentary to indicate to the developer what the module is for
+* a) Enables my `node_modules` folder in the root directory
+* b) Enables me to include the file in another file via the `require` keyword
+* c) Enables Node to read my `index.js` files without explicitly requiring them
+* d) Enables the file in question to be used as an ORM
+* e) Doesn't actually do anything in the code; it's just commentary to indicate to the developer what the module is for
 
 4. What does SQL stand for? (1 point)
 
-a) Simulation Quits Looping
-b) Simple Query Language
-c) Simultaneous Quantum Leaps
-d) Structured Query Language
-e) Structured Query Loop
+* a) Simulation Quits Looping
+* b) Simple Query Language
+* c) Simultaneous Quantum Leaps
+* d) Structured Query Language
+* e) Structured Query Loop
 
 5. PostgreSQL is what type of database? (1 point)
 
-a) Rational Database
-b) Separational Integrated Query Structure
-c) LINQ (Language Integrated Queries)
-d) Embedded Database
-e) Relational Database
+* a) Rational Database
+* b) Separational Integrated Query Structure
+* c) LINQ (Language Integrated Queries)
+* d) Embedded Database
+* e) Relational Database
 
 
-### SQL
+### SQL Comprehension
 
 Use the following SQL table, `books` to answer questions 6 through 10. Ratings pulled from [Goodreads.com](https://www.goodreads.com/shelf/show/classics).
 
