@@ -32,6 +32,7 @@ YOUR CODE HERE
 
 
 
+
 app.listen(3000);
 ```
 
@@ -93,7 +94,7 @@ Use the following SQL table, `books` to answer questions 6 through 10. Ratings p
 
 
 6. Write a `SELECT` statement that selects all books in the `books` table, but only the columns `title` and `author`. (1 point)
-
+<br><br>
 
 
 7. Write a `SELECT` statement that selects all books with a `rating` higher than 4.00. (1 point)
