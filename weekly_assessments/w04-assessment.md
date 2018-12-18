@@ -75,7 +75,7 @@ app.listen(3000);
 
 Use the following SQL table, `books` to answer questions 6 through 10. Ratings pulled from [Goodreads.com](https://www.goodreads.com/shelf/show/classics).
 
-#### Books Table
+#### SQL Table: books
 
 | id | title | author | rating |
 | -- | ------------------ | --------------------- | ----- |
@@ -91,7 +91,7 @@ Use the following SQL table, `books` to answer questions 6 through 10. Ratings p
 | 10 | Brave New World | Aldous Huxley | 3.98 |
 
 
-
+<br><br>
 
 6. Write a `SELECT` statement that selects all books in the `books` table, but only the columns `title` and `author`. (1 point)
 <br><br><br>
