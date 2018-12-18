@@ -111,9 +111,9 @@ Please follow these steps to deploy your app to GitHub Pages. You can either fol
 
 **Slack the deployed app's link to your instructors - congrats, you are done!**
 
-### STEP 4 - Bonus
+### STEP 5 - Bonus!
 
-As a bonus:
+As an optional bonus, if you have extra time, complete one or more of the following:
 
 * Display the result in red if the temperature is above 30 degrees Celsius 
 * Display the result in light blue if the temperature is below 0 degrees Celsius!
