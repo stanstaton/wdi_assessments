@@ -94,19 +94,20 @@ Use the following SQL table, `books` to answer questions 6 through 10. Ratings p
 
 
 6. Write a `SELECT` statement that selects all books in the `books` table, but only the columns `title` and `author`. (1 point)
-<br><br>
+<br><br><br>
 
 
 7. Write a `SELECT` statement that selects all books with a `rating` higher than 4.00. (1 point)
-
+<br><br><br>
 
 
 8. Write a `SELECT` statement that selects all columns from all books that were written by George Orwell. (1 point)
-
+<br><br><br>
 
 
 9. Write a `SELECT` statement that selects all columns in the `books` table, but the results are ordered by the `rating` column, with the highest rating at the top. (1 point)
-
+<br><br><br>
 
 
 10. Write a `SELECT` statement that selects all columns from the 3 books in this list that are highest rated. (2 points)
+<br><br><br>
