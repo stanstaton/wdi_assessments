@@ -12,8 +12,8 @@ project week! Furthermore, you can consider the weekly assessments effectively a
 | 1 | Lesson (Front-End) | [Link](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w01-assessment.md) |
 | 2 | Lesson (Front-End) | [Part 1: Mechanical](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-mechanical.md) <br> [Part 2: Conceptual](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w02-conceptual.md) |
 | 3 | Project | [Project 1 Assessment](https://github.com/WDI-SEA/wdi_assessments/blob/master/project_assessments/project-1-assessment.md) |
-| 4 | Lesson (Full-Stack) | TBD |
-| 5 | Lesson (Full-Stack) | TBD |
+| 4 | Lesson (Full-Stack) | [Assessment](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w04-assessment.md) |
+| 5 | Lesson (Full-Stack) | [Assessment](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w05-assessment.md) [Bonus/Half Week](https://github.com/WDI-SEA/wdi_assessments/blob/master/weekly_assessments/w05-bonus-assessment.md) |
 | 6 | Project | Project 2 Assessment |
 | 7 | Lesson (React) | TBD |
 | 8 | Lesson (React) | TBD |
