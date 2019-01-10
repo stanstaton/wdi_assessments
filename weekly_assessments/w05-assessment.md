@@ -38,7 +38,7 @@ You're building an online store and need to track customer orders. You know orde
 * d) They are related only by a union
 * e) None; they are separate tables
 
-<br><br>
+<br>
 
 2. What is true about the `customerId` field in the `Orders` table? (1 point)
 
@@ -48,7 +48,7 @@ You're building an online store and need to track customer orders. You know orde
 * d) It is always null
 * e) It must be the last column in the table
 
-<br><br>
+<br>
 
 3. What is true about the `id` field in the `Customers` table? (1 point)
 
@@ -58,7 +58,7 @@ You're building an online store and need to track customer orders. You know orde
 * d) It is always null
 * e) It must be the first column in the table
 
-<br><br>
+<br>
 
 4. Foreign keys.... (1 point)
 
@@ -68,7 +68,7 @@ You're building an online store and need to track customer orders. You know orde
 * d) Are assigned the value '1' by default
 * e) Can only be used in Canada
 
-<br><br>
+<br>
 
 5. One-to-Many is often abbreviated 1:M. Many-to-Many is often abbreviated as: (1 point)
 
@@ -78,7 +78,7 @@ You're building an online store and need to track customer orders. You know orde
 * d) XXX:YYY
 * e) None of the above
 
-<br><br>
+<br>
 
 6. A good example of a One-to-One relationship between 2 SQL tables is: (1 point)
 
@@ -88,7 +88,7 @@ You're building an online store and need to track customer orders. You know orde
 * d) Users and User Profiles
 * e) This isn't a real kind of relationship
 
-<br><br>
+<br>
 
 7. Clowns and Birthday Parties are what kind of SQL relationship? (1 point)
 
@@ -98,7 +98,7 @@ You're building an online store and need to track customer orders. You know orde
 * d) BelongsTo/hasMany
 * e) None of the Above
 
-<br><br>
+<br>
 
 8. Your answer for #7 is justified because... (1 point)
 
@@ -122,6 +122,8 @@ JOIN Orders o
     ON c.id = o.customerId
 ORDER BY c.lastname`
 
+<br><br>
+
 9. What is the most likely (sensible) usage of this output? (1 point)
 
 * a) I am probably making an address label
@@ -130,7 +132,7 @@ ORDER BY c.lastname`
 * d) I am deleting this customer from the customers table and need to delete their orders now too.
 * e) All of the above
 
-<br><br>
+<br>
 
 10. Which of the following are aliases? (1 point)
 
@@ -141,7 +143,7 @@ ORDER BY c.lastname`
 * e) All of the Above
 * f) None of the Above
 
-<br><br>
+<br>
 
 11. Which of the following are foreign keys? (1 point)
 
@@ -151,6 +153,8 @@ ORDER BY c.lastname`
 * d) o (orders table)
 * e) All of the Above
 * f) None of the Above
+
+<br>
 
 ### Authentication and Authorization
 
@@ -162,7 +166,7 @@ ORDER BY c.lastname`
 * d) A hashing algorithm
 * e) A random string added to a password
 
-<br><br>
+<br>
 
 13. Authorization is... (1 point)
 
@@ -172,7 +176,7 @@ ORDER BY c.lastname`
 * d) A hashing algorithm
 * e) A random string added to a password
 
-<br><br>
+<br>
 
 14. BCrypt is... (1 point)
 
@@ -182,7 +186,7 @@ ORDER BY c.lastname`
 * d) A hashing algorithm
 * e) A random string added to a password
 
-<br><br>
+<br>
 
 15. A "salt" is... (1 point)
 
@@ -192,7 +196,7 @@ ORDER BY c.lastname`
 * d) A hashing algorithm
 * e) A random string added to a password
 
-<br><br>
+<br>
 
 16. The reason we need a "salt" is... (1 point)
 
