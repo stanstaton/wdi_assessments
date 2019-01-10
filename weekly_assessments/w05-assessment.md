@@ -113,14 +113,16 @@ You're building an online store and need to track customer orders. You know orde
 
 Consider the following SQL statement:
 
-`SELECT 
+```SQL
+SELECT 
     CONCAT(c.firstname, ' ', c.lastname) AS 'Full Name',
     c.address AS 'Address Line 1',
     CONCAT(c.city, ', ', c.state, ' ', c.zip) AS 'Address Line 2'
 FROM Customers c
 JOIN Orders o
     ON c.id = o.customerId
-ORDER BY c.lastname`
+ORDER BY c.lastname
+```
 
 <br><br>
 
