@@ -1,95 +1,51 @@
 # Week 7 Conceptual - NAME: ___________  `__/15`
-## JavaScript
-```js
-var x = 25;
-var a = ['apple', true];
-function fn(p1, p2) {
-    p2 = p2 * 2;
-    p1.push(p2);
-};
-fn(a, x);
-console.log(x);
-console.log(a);
+
+## JavaScript - ES6
+
+Consider the following code
+
+```javascript
+const myFn = (a, b) => { a * b }
+
+console.log(myFn(2, 3))
 ```
-##### Q1) What will be logged out when the above code is executed?
+
 <br><br>
-```js
-var bank = 'Chase';
-function getAccountDetails(acctNo) {
-    return `Details for ${getAccountDetails.bank} Account #${acctNo}`;
-}
-getAccountDetails.bank = bank;
-var details = getAccountDetails(54321);
-```
-##### Q2) After the above code executes, what is the value of the `details` variable?
+
+1. What prints out from the console.log statement? (1 point)
+
+* a) Undefined
+* b) Null
+* c) Empty String
+* d) 6
+* e) None; it throws an error 
+
 <br><br>
-```js
-let accounts = [
-    {acctNo: 123, type: 'Checking', balance: 150},
-    {acctNo: 234, type: 'Checking', balance: 200},
-    {acctNo: 345, type: 'Savings', balance: 550},
-    {acctNo: 456, type: 'Checking', balance: 550},
-    {acctNo: 567, type: 'Savings', balance: 1500}
-];
-```
-#### Assuming the above array of _account_ objects and the following array methods:
-`forEach` `map` `reduce` `some` `filter` `find` `findIndex` `every`
-#### List the most **suitable** method to use for the following tasks:
-> Hint: Each method is only used once below
-##### Q3) Put the _accounts_ having a `balance` greater than a certain amount into a new array
-<br>
-##### Q4) Obtain the _account_ object having an `acctNo` equal to 456
-<br>
-##### Q5) Check if there are any _accounts_ with a negative `balance`
-<br>
-##### Q6) Console.log all of the _accounts_
-<br>
-##### Q7) Add 1000 to all of the _accounts_ and put them in a new array
-<br>
-##### Q8) Compute the sum of the balances for _accounts_ of `type` equal to 'Savings'
-<br>
-##### Q9) Check if all of the _accounts_ have a `balance` greater than 100
-<br>
-## Node
-##### Q10) Node is (circle the best answer):
-```
-a) A programming language           c) Only used on the server
-b) A JavaScript library             d) A runtime environment for JS
-```
-#### Assuming the following two modules:
-```js
-// silly.js
-var utilities = require('../utilities');
-var api = {
-    one,
-    two,
-    three: 3,
-    four: 'four'
-};
-function one() {
-    return 'something';
-}
-function two(a, b) {
-    return b;
-}
-module.exports = api;
-```
-```js
-// use-silly.js
-var silly = require('silly');
-var a = silly.one;
-var b = silly.two(true, false);
-var c = silly.three;
-var d = require('silly').three;
-```
-> Hint: Pay attention to "data type" vs. "value"
-##### Q11) What data type is `silly.four`?
-<br>
-##### Q12) What data type is variable `a`?
-<br>
-##### Q13) What is the value of variable `b`?
-<br>
-##### Q14) What is the value of variable `c`?
-<br>
-##### Q15) What is the value of variable `d`?
-<br>
+
+2. There is no return statement in the function. That is...? (1 point)
+
+* a) Fine. It will figure out to return `a * b`
+* b) Not fine. It will throw an error
+* c) Fine. It returns the `this` object by default
+* d) Not fine. There's no error but it just returns `undefined`
+* e) None of the above
+
+<br><br>
+
+3. Which of the following is a feature of arrow functions? (1 point)
+
+* a) Difficult to read code
+* b) Integrated objective properties
+* c) The `this` object is scoped to the parent
+* d) The `this` object is `undefined`
+* e) None of the above
+
+<br><br>
+
+4. Async and Await in ES6+ offer...? (1 point)
+
+* a) A way to wait for an asynchronous call to finish without a bunch of callbacks
+* b) A way of performing a loop operation in the background
+* c) A way to bind data to the `this` object
+* d) A way of handling exceptions gracefully in your code
+* e) None of the above
