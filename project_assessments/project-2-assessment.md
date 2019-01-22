@@ -87,6 +87,7 @@ You can do any number of things for bonus points including:
 - Make your site responsive
 - Give your site a header and/or footer
 - Make your add animal form really nicely styled
+- Make your home page really exciting
 - Add a default image in case the user doesn't provide one
 - Implement flash messages for form/data entry errors
 
