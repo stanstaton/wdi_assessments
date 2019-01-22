@@ -1,4 +1,4 @@
-# Week 7 Conceptual - NAME: ___________  `__/15`
+# Week 7 Assessment - NAME: ___________  `__/12`
 
 ## JavaScript - ES6
 
@@ -118,4 +118,45 @@ console.log(j);
 * d) You can't change it, not even a little
 * e) None of the above
 
+<br><br>
 
+10. What is the new operator ... (the 3 dots)? (1 point)
+
+* a) Spread operator
+* b) Axios operator
+* c) Mutator operator
+* d) It's not an operator, it's a shortcut for RESTful routing
+* e) None of the above
+
+<br>
+
+#### Consider the following ES6 Code
+
+```javascript
+var foo = ['one', 'two', 'three'];
+
+var [one, two, three] = foo;
+console.log(one); // "one"
+console.log(two); // "two"
+console.log(three); // "three"
+```
+
+<br><br>
+
+11. This is an example of...? (1 point)
+
+* a) Array/Object Destructuring
+* b) Generics
+* c) Mutator operator
+* d) A constructor function
+* e) None of the above - this code won't actually run!
+
+<br><br>
+
+12. ES6 stands for...? (1 point)
+
+* a) ElectricScript 6
+* b) ECMAScript 6
+* c) EvaluatorScript 6
+* d) YMCAScript 6
+* e) ExpertScript 6
