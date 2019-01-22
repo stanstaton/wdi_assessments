@@ -2,7 +2,7 @@
 
 ## JavaScript - ES6
 
-Consider the following code
+#### Consider the following code
 
 ```javascript
 const myFn = (a, b) => { a * b }
@@ -30,7 +30,9 @@ console.log(myFn(2, 3))
 * d) Not fine. There's no error but it just returns `undefined`
 * e) None of the above
 
-<br><br>
+<br>
+
+## Other ES6 Questions
 
 3. Which of the following is a feature of arrow functions? (1 point)
 
@@ -49,3 +51,71 @@ console.log(myFn(2, 3))
 * c) A way to bind data to the `this` object
 * d) A way of handling exceptions gracefully in your code
 * e) None of the above
+
+<br><br>
+
+5. The difference between `var` and `let` is what? (1 point)
+
+* a) var means `variable` and let means `lettuce code`
+* b) let is more specifically scoped than var
+* c) var is more specifically scoped than let
+* d) let eliminates the need for callback functions
+* e) Only var allows you to use jQuery
+
+<br>
+
+#### Consider the following code
+
+```javascript
+for(var i = 0; i < 5; i++){
+    console.log('hello from i', i);
+}
+
+for(let j = 0; j < 5; j++){
+    console.log('hello from j', j);
+}
+
+console.log(i);
+console.log(j);
+```
+
+<br>
+
+6. At the end of running this code, the value of `i` is what? (1 point)
+
+* a) 0
+* b) 4
+* c) 5
+* d) undefined
+* e) None of the above
+
+<br><br>
+
+7. At the end of running this code, the value of `j` is what? (1 point)
+
+* a) 0
+* b) 4
+* c) 5
+* d) undefined
+* e) None of the above
+
+<br><br>
+
+8. Running this code causes an error/exception. True or false? (1 point)
+
+* a) True
+* b) False
+* c) All of the above
+* d) None of the above
+
+<br><br>
+
+9. The `const` keyword means constant. What does that mean? (1 point)
+
+* a) It is the same as var, just syntactic sugar
+* b) It is the same as let, just syntactic sugar
+* c) You can't change it, but if it's an object you can change its properties
+* d) You can't change it, not even a little
+* e) None of the above
+
+
