@@ -32,7 +32,7 @@ console.log(myFn(2, 3))
 
 <br>
 
-## Other ES6 Questions
+#### Other ES6 Questions
 
 3. Which of the following is a feature of arrow functions? (1 point)
 
@@ -151,7 +151,9 @@ console.log(three); // "three"
 * d) A constructor function
 * e) None of the above - this code won't actually run!
 
-<br><br>
+<br>
+
+## Okay, Last Question!
 
 12. ES6 stands for...? (1 point)
 
