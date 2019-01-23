@@ -5,7 +5,7 @@
 #### Consider the following code
 
 ```javascript
-const myFn = (a, b) => { a * b }
+const myFn = (a, b) => a * b
 
 console.log(myFn(2, 3))
 ```
