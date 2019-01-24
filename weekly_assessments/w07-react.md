@@ -1,4 +1,4 @@
-# Week 7 Assessment: React - NAME: ___________  `__/12`
+# Week 7 Assessment: React - NAME: ___________  `__/9`
 
 ## React Fundamentals
 
