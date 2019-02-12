@@ -9,16 +9,16 @@ def get_balance(acct):
 	return accounts[acct]
 
 ```
-#### Assuming the Python code above has ran:
+### Assuming the Python code above has ran:
 
-##### Q1) What will the value of `bal` be after the following code runs:
+#### 1. What will the value of `bal` be after the following code runs: (1 point)
 
 ```python
 bal = accounts['no789']
 ```
 <br>
 
-##### Q2) What will the value of `bal` be after the following code runs:
+#### 2. What will the value of `bal` be after the following code runs: (1 point)
 
 ```python
 acct = 'no456'
@@ -26,54 +26,55 @@ bal = accounts[acct]
 ```
 <br>
 
-##### Q3) What will the value of `bal` be after the following code runs:
+#### 3. What will the value of `bal` be after the following code runs: (1 point)
 
 ```python
 bal = get_balance('no123')
 ```
 <br>
 
-##### Q4) What will the value of `bal` be after the following code runs:
+#### 4. What will the value of `bal` be after the following code runs: (1 point)
 ```python
 bal = len(accounts)
 ```
 <br>
 
-##### Q5) What is the data-type of the variable named `accounts`?
+#### 5. What is the data-type of the variable named `accounts`? (1 point)
 <br>
+
+#### Assuming the following Python code has ran, answer questions 6-10:
 
 ```python
 flowers = ['rose', 'tulip', 'daisy']
 num_flowers = len(flowers)
 
 for f in flowers:
-	print(f)
+    print(f)
 ```
 
-#### Assuming the Python code above has ran:
 
-##### Q6) What data type is the variable named `flowers`?
+#### 6. What data type is the variable named `flowers`? (1 point)
 
-##### Q7) What is the value of `num_flowers`?
+#### 7. What is the value of `num_flowers`? (1 point)
 
-##### Q8) What is the resulting output?
+#### 8. What is the resulting output? (1 point)
 <br><br><br>
 
-##### Q9) What will the value of `bouquet` be after the following code runs:
+#### 9. What will the value of `bouquet` be after the following code runs: (1 point)
 
 ```python
 bouquet = flowers[1:]
 ```
 <br>
 
-##### Q10) What will the value of `flower` be after the following code runs:
+#### 10. What will the value of `flower` be after the following code runs: (1 point)
 
 ```python
 flower = flowers.pop(1)
 ```
 <br>
 
-##### Q11) What will the value of `result` be after the following code runs:
+#### 11. What will the value of `result` be after the following code runs: (1 point)
 
 ```python
 foods = ['banana', 'cheeseburger', 'taco', 'pizza']
@@ -81,13 +82,13 @@ result = [food.upper() for food in foods if food.startswith('c')]
 ```
 <br>
 
-##### Q12) What _keyword_ is used to define functions/methods in Python?
+#### 12. What _keyword_ is used to define functions/methods in Python? (1 point)
 
-##### Q13) When defining a function/method, the first line always ends with what character?
+#### 13. When defining a function/method, the first line always ends with what character? (1 point)
 
-##### Q14) What _keyword_ is used to define a class in Python?
+#### 14. What _keyword_ is used to define a class in Python? (1 point)
 
-##### Q15) When defining a class, what is the naming convention?
+#### 15. When defining a class, what is the naming convention? (1 point)
 
 ##### Q16) What is the name of the special method in a class that is automatically called when creating an instance of the class?
 
