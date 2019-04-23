@@ -1,4 +1,6 @@
-Not currently in use - see comments
+Not currently in use - see comments.
+
+Project 3 is run on a group project and the assessment is a self-reflection and a review from their group mates. It culminates in a one-on-one code review and coaching session with the instructional team.
 
 <!-- <img src="https://i.imgur.com/ser5chI.png">
 
