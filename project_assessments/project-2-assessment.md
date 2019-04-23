@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/sX12DTc.png">
+<!-- <img src="https://i.imgur.com/sX12DTc.png">
 
 # Project 2 Assessment
 
@@ -98,3 +98,4 @@ Put your heroku link into slack. This is all you need to do. After you are done 
 ## Advice
 
 Styling, for the most part is a bonus for this assessment. This thing does not need to be beautiful. Worry about functionality first and foremost. Priority one is that your routes work properly. Priority two is that your database works properly. Priority three is deployment. Get as far as you can within the allotted time frame.
+-->
