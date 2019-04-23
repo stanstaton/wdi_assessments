@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/ser5chI.png">
+Not currently in use - see comments
+
+<!-- <img src="https://i.imgur.com/ser5chI.png">
 
 # Project 3 Assessment
 
@@ -111,5 +113,5 @@ Follow these steps to deploy your app:
 **Slack the deployed app's link to your instructors - congrats, you are done!**
 
 
-
+-->
 
