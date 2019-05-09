@@ -38,10 +38,10 @@
 
 5. MERN stands for? (1 point)
 
-* a) Mongo Ember React Network
+* a) Mongo Ember React NoSQL
 * b) MEga React Nerds
 * c) MySQL Express Randomized Network
-* d) Memory Encryption Referenced Node
+* d) Markov Encryption Referenced NoSQL
 * e) Mongo Express React Node
 
 <br><br>
