@@ -86,7 +86,7 @@
 
 <br><br>
 
-10. `ComponentDidMount` is an example of? (1 point)
+10. `componentDidMount` is an example of? (1 point)
 
 * a) A Reactor
 * b) A Constructor
