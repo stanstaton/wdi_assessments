@@ -1,4 +1,4 @@
-# Week 8 Assessment: MERN Stack - NAME: ___________  `__/9`
+# Week 8 Assessment: MERN Stack - NAME: ___________  `__/13`
 
 ## MERN stack and JWTs
 
