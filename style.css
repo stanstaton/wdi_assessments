@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+	
+}
+
+
+button {
+	height: 50px;
+	width: 50px;
+	background-color: #ffc7c7;
+	border: 2px solid #ffc7c7;
+	border-radius: 4px;
+	font-size: 20px;
+	color: black;
+}
+
+button:hover {
+	color: #ffc7c7;
+	background-color: black;
+	border-color: black;
+}
+
+#output {
+	font-size: 70px;
+}
+
+#input-variable {
+	font-size: 15px;
+	text-align: center;
+	margin: 10px;
+	height: 50px;
+	width: 50px;
+}
